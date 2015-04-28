@@ -17,4 +17,9 @@ Repo: https://github.com/ckeditor/ckeditor-dev
 Release: https://github.com/ckeditor/ckeditor-dev/tree/release/4.4.x
 
 Download release version:
-https://github.com/ckeditor/ckeditor-dev/archive/4.4.7.zip
+https://github.com/ckeditor/ckeditor-dev/archive/4.4.7.tar.gz
+
+CURRENT VERSION OF THIS REPO: 4.4.7
+
+
+
